@@ -1,4 +1,4 @@
-# -RCMS-Postprocessing-for-video
+# RCMS-Postprocessing-for-video
 
 본 프로그램은 .MP4(영상)과 .SRT(드론래퍼런스)를 입력으로 받아서 사용자 지정 프레임 단위로 PNG, XML, TXT 세 가지의 파일을 생성하는 코드입니다.
 
